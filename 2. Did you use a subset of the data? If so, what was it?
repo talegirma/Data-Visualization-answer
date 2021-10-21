@@ -1,0 +1,29 @@
+   Yes. I used only a subset of the large possible dataset (based upon advanced logics).
+    
+    The subset data contains the information based upon the following strategy:
+  
+Basic Strategy
+  Winning tactics in Blackjack require that the player play each hand in the optimum way, and 
+  such strategy always takes into account what the dealer's upcard is. When the dealer's upcard 
+  is a good one, a 7, 8, 9, 10-card, or ace for example, the player should not stop drawing until 
+  a total of 17 or more is reached. When the dealer's upcard is a poor one, 4, 5, or 6, the player
+  should stop drawing as soon as he gets a total of 12 or higher. The strategy here is never to 
+  take a card if there is any chance of going bust. The desire with this poor holding is to let 
+  the dealer hit and hopefully go over 21. Finally, when the dealer's up card is a fair one, 2 or 3,
+  the player should stop with a total of 13 or higher.
+
+  With a soft hand, the general strategy is to keep hitting until a total of at least 18 is reached.
+  Thus, with an ace and a six (7 or 17), the player would not stop at 17, but would hit.
+
+  The basic strategy for doubling down is as follows: 
+  
+  With a total of 11, the player should always double down. 
+  With a total of 10, he should double down unless the dealer shows a ten-card or an ace. 
+  With a total of 9, he should double down only if the dealer's card is fair or poor (2 through 6).
+
+  For splitting, the player should always split a pair of aces or 8s; 
+  identical ten-cards should not be split, and neither should a pair of 5s, 
+  since two 5s are a total of 10, which can be used more effectively in doubling down. 
+  A pair of 4s should not be split either, as a total of 8 is a good number to draw to. 
+  Generally, 2s, 3s, or 7s can be split unless the dealer has an 8, 9, ten-card, or ace. 
+  Finally, 6s should not be split unless the dealer's card is poor (2 through 6).
