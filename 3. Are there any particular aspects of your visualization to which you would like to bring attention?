@@ -1,0 +1,16 @@
+What we will see is:
+
+    Random variables and Deterministic nodes are printed in ellipses.
+    
+    Deterministic nodes are defined by their parents and are not assigned prior distributions.
+    
+    Decision nodes are printed in rectangles. 
+    
+    Decision nodes are places where we can make changes in what happens in the structure of the network. 
+    
+    In this case, do we want to take another card from the dealer (a hit) or remain content with 
+    the cards in hand?
+    
+    Utility nodes are deterministic nodes with no children that are usually of special interest. 
+    
+    In this case the utility node is the payoff from the game.
